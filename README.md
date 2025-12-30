@@ -59,11 +59,11 @@ http://localhost:8000
 
 本项目是一个用于统计华清大学学生在食堂（和宿舍）的消费情况的脚本。通过模拟登录华清大学校园卡网站，获取学生在华子食堂的消费记录，并通过数据可视化的方式展示。
 
-![image-20251231031223866](/Users/zhayi/code/THU-Annual-Eat/README.assets/image-20251231031223866.png)
+![image-20251231031223866](./README.assets/1.png)
 
-![image-20251231031228610](/Users/zhayi/code/THU-Annual-Eat/README.assets/image-20251231031228610.png)
+![image-20251231031228610](./README.assets/2.png)
 
-![image-20251231031240949](/Users/zhayi/code/THU-Annual-Eat/README.assets/image-20251231031240949.png)
+![image-20251231031240949](./README.assets/3.png)
 
 ![demo](./demo.png)
 
