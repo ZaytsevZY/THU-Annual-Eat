@@ -37,7 +37,7 @@ if __name__ == "__main__":
             json.dump({"idserial": idserial, "servicehall": servicehall}, f, indent=4)
     
     # 发送请求，得到加密后的字符串
-    url = f"https://card.tsinghua.edu.cn/business/querySelfTradeList?pageNumber=0&pageSize=5000&starttime=2024-01-01&endtime=2024-12-31&idserial={idserial}&tradetype=-1"
+    url = f"https://card.tsinghua.edu.cn/business/querySelfTradeList?pageNumber=0&pageSize=5000&starttime=2025-01-01&endtime=2025-12-31&idserial={idserial}&tradetype=-1"
     cookie = {
         "servicehall": servicehall,
     }
